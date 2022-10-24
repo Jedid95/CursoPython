@@ -8,3 +8,4 @@ Cuso Udemy Python - https://www.udemy.com/course/python-3-do-zero-ao-avancado/
   - 1.4. Operadores Aritméticos
   - 1.5. Precedência dos Operadores Artméticos
   - 1.6. Variáveis
+  - 1.7. Introdução à formatação de Strings
