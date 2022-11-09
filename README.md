@@ -12,6 +12,12 @@ Iniciado em 11/2022
   - 2.5. macOS - Instalando Ptyhon e VS Code
   - 2.6. Para Iniciantes: sobre as próximas aulas de configurações e instalações
   - 2.7. Para Iniciantes: configurações gráficas do VS Code
-  - 2.8. Para Iniciantes: configurações iniciais do VS Code e das extensões para Python
-  - 2.9. Para Iniciantes: portando configurações do VS Code para uma instalação nova
+  - 2.8. Para Iniciantes: atalhos do VS Code e settings.json
+  - 2.9. Para Iniciantes: configurações iniciais do VS Code e das extensões para Python
+  - 2.10. Para Iniciantes: portando configurações do VS Code para uma instalação nova
+# 3. Inciando na programação com Python (Lógica de programação básica)
+  - 3.1. O que vamos aprender ? Devo seguir essa seção?
+  - 3.2. Me ajude a produzir conteúdo gratuito
+  - 3.3. Criando meu primeiro módulo Python (*.py)
+  - 3.4. O interpretador do Python + comentários de código
 
