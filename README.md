@@ -20,4 +20,9 @@ Iniciado em 11/2022
   - 3.2. Me ajude a produzir conteúdo gratuito
   - 3.3. Criando meu primeiro módulo Python (*.py)
   - 3.4. O interpretador do Python + comentários de código
+  - 3.5. Docstrings como comentários
+  - 3.6. Teste 1: Sobre comentários
+  - 3.7. A função print
+  - 3.8. Tipo str (string) - Introdução aos tipos de dados
+  - 3.9. Teste 2: Sobre print e str
 
