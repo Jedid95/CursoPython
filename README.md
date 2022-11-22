@@ -25,4 +25,9 @@ Iniciado em 11/2022
   - 3.7. A função print
   - 3.8. Tipo str (string) - Introdução aos tipos de dados
   - 3.9. Teste 2: Sobre print e str
+  - 3.10. Tipo int e float (números) - Introdução aos tipos de dados
+  - 3.11. Tipo bool (boolean) - Introdução aos tipos de dados
+  - 3.12. Teste 3: Sobre int, float e bool
+  - 3.13. Coerção de tipos (convertendo um tipo para outro)
+  - 3.14. Introdução à variáveis em Python 
 
