@@ -30,4 +30,7 @@ Iniciado em 11/2022
   - 3.12. Teste 3: Sobre int, float e bool
   - 3.13. Coerção de tipos (convertendo um tipo para outro)
   - 3.14. Introdução à variáveis em Python 
+  - 3.15. Exercício com variáveis e tipos de dados
+  - 3.16. Solução - Exercício com variáveis e tipos de dados
+  - 3.17. Introdução aos operadores aritméticos (matemática)
 
